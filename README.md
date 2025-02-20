@@ -1,5 +1,4 @@
-# Portfolio
-Computer science portfolio
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
